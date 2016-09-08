@@ -91,3 +91,6 @@ ENV/
 # Ignore pcap file
 *.pcap
 .idea/
+
+# Ignore interpreter
+python
